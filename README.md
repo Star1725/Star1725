@@ -48,7 +48,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Star1725
+[![GitHub Streak](https://streak-stats.demolab.com?user=Star1725&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 <!--
 **Star1725/Star1725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
