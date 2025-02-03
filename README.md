@@ -47,6 +47,9 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Star1725
+
 <!--
 **Star1725/Star1725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
